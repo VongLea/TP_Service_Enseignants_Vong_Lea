@@ -12,11 +12,11 @@ public abstract class Personne {
     }
 
     public String getNom() {
-        return nom;
+        return this.nom;
     }
 
     public String getEmail() {
-        return email;
+        return this.email;
     }
     
     
